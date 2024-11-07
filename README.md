@@ -1,11 +1,7 @@
-2048 Python
+65536 Python
 ===========
 
-[![Run on Repl.it](https://repl.it/badge/github/yangshun/2048-python)](https://repl.it/github/yangshun/2048-python)
-
----
-
-**⚠️NOTE⚠️**: We won't be accepting any contributions/changes to the project anymore. It is now readonly.
+[![Run on Repl.it](https://repl.it/badge/github/EulersNumber2010/65536-python)](https://repl.it/github/EulersNumber2010/65536-python)
 
 ---
 
